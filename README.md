@@ -1,5 +1,5 @@
-# 208 game
-  - **2048 game** is the copy of a famous game.
+# 2048 game
+  - **2048 game** is another implementation of a famous game named 2048.
   - **Stack**:
     - HTML
     - CSS (SCSS), BEM
